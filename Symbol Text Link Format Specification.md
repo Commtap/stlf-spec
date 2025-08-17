@@ -28,8 +28,10 @@ In PowerPoint the maximum length of the name associated with an object/shape is 
 
 When a PowerPoint document is opened in KeyNote (and other software), the name associated with an object/shape is preserved.
 
-**The maximum length of the symbol meta information associated with a shape/object is 256 characters**
-**The symbol meta information for a shape/object should be stored in its name field (or equivalent)**
+
+| **The maximum length of the symbol meta information associated with a shape/object is 256 characters** |
+|-|
+| **The symbol meta information for a shape/object should be stored in its name field (or equivalent)** |
 
 ### Alternative text
 
